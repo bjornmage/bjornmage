@@ -1,6 +1,5 @@
 ### Hi there 👋, Björn Mage
 #### Engineering Manager
-![Engineering Manager](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm an Engineering Manager is a critical role in Reveltek company that relies on engineering talent. They are responsible for managing the day-to-day work of a team of engineers, ensuring that projects are completed on time and within budget, and providing mentorship and guidance to their team members. A successful Engineering Manager must be an effective communicator, technical expert, and strong leader.
 
