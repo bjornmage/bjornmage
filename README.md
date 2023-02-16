@@ -16,13 +16,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP/ Payton
 [![trophy](https://github-profile-trophy.vercel.app/?username=bjornmage)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornmage&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/bjornmage)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bjornmage)  
-
-![Profile views](https://gpvc.arturio.dev/bjornmage)  
-
 </td>
         <td  align="center">
         <details open><summary>PageSpeed scores</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" alt=""></img></details>
@@ -32,3 +25,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP/ Payton
       </td>
   </tr>
   
+![GitHub metrics](https://metrics.lecoq.io/bjornmage)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=bjornmage)  
+
+![Profile views](https://gpvc.arturio.dev/bjornmage)  
+
+
