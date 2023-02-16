@@ -32,3 +32,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP/ Payton
 ![Profile views](https://gpvc.arturio.dev/bjornmage)  
 
 
+
