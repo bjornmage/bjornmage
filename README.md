@@ -22,3 +22,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP/ Payton
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bjornmage)  
 
 ![Profile views](https://gpvc.arturio.dev/bjornmage)  
+
+</td>
+        <td  align="center">
+        <details open><summary>PageSpeed scores</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" alt=""></img></details>
+        <details><summary>PageSpeed scores with detailed report</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.detailed.svg" alt=""></img></details>
+        <details><summary>PageSpeed scores with a website screenshot</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.screenshot.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  
