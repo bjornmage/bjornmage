@@ -15,7 +15,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP/ Payton
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bjornmage)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bjornmage)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornmage&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/bjornmage)  
 
