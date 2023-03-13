@@ -3,9 +3,9 @@
 
 I'm an Engineering Manager, a critical role in any IT Company that relies on engineering talent. They are responsible for managing the day-to-day work of a team of engineers, ensuring that projects are completed on time and within budget, and providing mentorship and guidance to their team members. A successful Engineering Manager must be an effective communicator, technical expert, and strong leader.
 
-Skills: C#, Python, VUE JS / REACT / JS / HTML / CSS/PHP/
+Skills: C#, Python, PowerBI, Agile, SOLID Framework, DROID Ops
 
-- 🔭 I’m currently working on some AI tech & automation Apps using Django, ChatGPT, Python, & LUIS. 
+- 🔭 I’m currently working on some MLOps, AI tech & automation Apps using Django, MLOps, & Python. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bjornmage)  
